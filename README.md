@@ -1,6 +1,9 @@
 # Quasar Todo (q-todo)
 
-todo app
+Simple todo app built with Quasar v2.12 and Vue3, can be pushed to be built for the web/iOS/Android and other platforms.
+
+<img width="415" alt="image" src="https://github.com/scripturesdev/q-todo/assets/46625215/30f44356-a36d-46e3-8f39-842b961ddf52">
+
 
 ## Install the dependencies
 ```bash
